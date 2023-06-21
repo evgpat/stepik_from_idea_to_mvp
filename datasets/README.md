@@ -58,7 +58,7 @@ _Целевая переменная_ (таргет) – `selling_price`: цен
 _Целевая переменная_ (таргет) – `SeriousDlqin2yrs`: клиент имел просрочку 90 и более дней
 
 ### Признаки
-- `RevolvingUtilizationOfUnsecuredLines: общий баланс средств (total balance on credit cards and personal lines of credit except real estate and no installment debt
+- `RevolvingUtilizationOfUnsecuredLines`: общий баланс средств (total balance on credit cards and personal lines of credit except real estate and no installment debt
 like car loans divided by the sum of credit limits)
 - `age`: возраст заемщика
 - `NumberOfTime30-59DaysPastDueNotWorse`: сколько раз за последние 2 года наблюдалась просрочка 30-59 дней
