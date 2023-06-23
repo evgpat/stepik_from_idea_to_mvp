@@ -1,0 +1,1001 @@
+gender,parental level of education,lunch,test preparation course,math score,reading score,writing score,class_group,writing fail
+female,,1,0,72.0,72.0,74,group B,0
+female,some college,1,1,69.0,90.0,88,group C,0
+female,master's degree,1,0,90.0,95.0,93,group B,0
+male,associate's degree,0,0,47.0,57.0,44,group A,1
+male,some college,1,0,76.0,78.0,75,group C,0
+female,associate's degree,1,0,71.0,83.0,78,group B,0
+female,some college,1,1,88.0,95.0,92,group B,0
+male,some college,0,0,40.0,43.0,39,group B,1
+male,high school,0,1,64.0,64.0,67,group D,0
+unknown,high school,0,0,38.0,60.0,50,group B,0
+male,associate's degree,1,0,58.0,54.0,52,group C,0
+male,associate's degree,1,0,40.0,52.0,43,group D,1
+female,high school,1,0,65.0,81.0,73,group B,0
+male,some college,1,1,78.0,72.0,70,group A,0
+female,,1,0,50.0,53.0,58,group A,0
+female,some high school,1,0,65.48949579831933,75.0,78,group C,0
+male,high school,1,0,88.0,89.0,86,group C,0
+female,some high school,0,0,65.48949579831933,32.0,28,group B,1
+male,,0,1,46.0,42.0,46,group C,1
+female,associate's degree,0,0,54.0,58.0,61,group C,0
+male,high school,1,0,66.0,69.0,63,group D,0
+female,some college,0,1,65.0,75.0,70,group B,0
+male,some college,1,0,44.0,54.0,53,group D,0
+female,some high school,1,0,69.0,73.0,73,group C,0
+male,bachelor's degree,0,1,74.0,71.0,80,group D,0
+male,master's degree,0,0,73.0,74.0,72,group A,0
+male,some college,1,0,69.0,54.0,55,group B,0
+female,bachelor's degree,1,0,67.0,69.0,75,group C,0
+male,high school,1,0,70.0,70.0,65,group C,0
+female,master's degree,1,0,65.48949579831933,70.0,75,group D,0
+female,some college,1,0,69.0,74.0,74,group D,0
+female,,1,0,63.0,65.0,61,group B,0
+female,master's degree,0,0,56.0,72.0,65,group E,0
+male,some college,1,0,40.0,42.0,38,group D,1
+male,some college,1,0,65.48949579831933,87.0,82,group E,0
+male,associate's degree,1,1,81.0,81.0,79,group E,0
+female,associate's degree,1,0,74.0,81.0,83,group D,0
+female,some high school,0,0,50.0,64.0,59,group D,0
+unknown,associate's degree,0,1,75.0,90.0,88,group D,0
+male,associate's degree,0,0,57.0,56.0,57,group B,0
+male,,0,0,55.0,61.0,54,group C,0
+female,associate's degree,1,0,58.0,73.0,68,group C,0
+female,associate's degree,1,0,53.0,58.0,65,group B,0
+male,some college,0,1,59.0,65.0,66,group B,0
+female,associate's degree,0,0,50.0,56.0,54,group E,0
+male,associate's degree,1,0,65.0,54.0,57,group B,0
+female,,1,1,55.0,65.0,62,group A,0
+female,high school,1,0,66.0,71.0,76,group C,0
+female,associate's degree,0,1,57.0,74.0,76,group D,0
+male,high school,1,1,82.0,84.0,82,group C,0
+male,some college,1,0,53.0,55.0,48,group E,1
+male,associate's degree,0,1,77.0,69.0,68,group E,0
+male,some college,1,0,53.0,44.0,42,group C,1
+male,high school,1,0,88.0,78.0,75,group D,0
+female,some high school,0,1,71.0,84.0,87,group C,0
+female,high school,0,0,33.0,41.0,43,group C,1
+female,associate's degree,1,1,82.0,85.0,86,group E,0
+male,associate's degree,1,0,52.0,55.0,49,group D,1
+male,some college,1,1,58.0,59.0,58,group D,0
+female,some high school,0,0,0.0,17.0,10,group C,1
+male,bachelor's degree,0,1,79.0,74.0,72,group E,0
+male,some high school,0,0,39.0,39.0,34,group A,1
+male,associate's degree,0,0,62.0,61.0,55,group A,0
+female,,1,0,69.0,80.0,71,group C,0
+female,some high school,1,0,59.0,58.0,59,group D,0
+male,some high school,1,0,67.0,64.0,61,group B,0
+unknown,some high school,0,0,45.0,37.0,37,group D,1
+female,,1,0,60.0,72.0,74,group C,0
+male,associate's degree,0,0,61.0,58.0,56,group B,0
+female,associate's degree,1,0,39.0,64.0,57,group C,0
+female,some college,0,1,58.0,63.0,73,group D,0
+male,some college,1,1,63.0,55.0,63,group D,0
+female,associate's degree,0,0,41.0,51.0,48,group A,1
+male,some high school,0,0,0.0,57.0,56,group C,0
+male,some high school,1,0,49.0,49.0,41,group C,1
+male,associate's degree,0,0,44.0,41.0,38,group B,1
+male,some high school,1,0,30.0,26.0,22,group E,1
+male,bachelor's degree,1,1,80.0,78.0,81,group A,0
+unknown,some high school,1,1,61.0,74.0,72,group D,0
+female,master's degree,1,0,62.0,68.0,68,group E,0
+female,associate's degree,1,0,47.0,49.0,50,group B,0
+male,high school,0,0,49.0,45.0,45,group B,1
+male,some college,0,1,50.0,47.0,54,group A,0
+male,associate's degree,1,0,72.0,64.0,63,group E,0
+male,high school,0,0,42.0,39.0,34,group D,1
+female,some college,1,0,73.0,80.0,82,group C,0
+female,some college,0,0,76.0,83.0,88,group C,0
+female,associate's degree,1,0,71.0,71.0,74,group D,0
+female,some college,1,0,58.0,70.0,67,group A,0
+female,some high school,1,0,73.0,86.0,82,group D,0
+female,bachelor's degree,1,0,65.0,72.0,74,group C,0
+male,high school,0,0,27.0,34.0,36,group C,1
+male,high school,1,0,71.0,79.0,71,group C,0
+male,associate's degree,0,1,43.0,45.0,50,group C,0
+female,some college,1,0,79.0,86.0,92,group B,0
+male,associate's degree,0,1,78.0,81.0,82,group C,0
+male,some high school,1,1,65.0,66.0,62,group B,0
+female,some college,1,1,63.0,72.0,70,group E,0
+female,some college,0,0,58.0,67.0,62,group D,0
+female,bachelor's degree,1,0,65.0,67.0,62,group D,0
+male,some college,1,0,79.0,67.0,67,group B,0
+unknown,bachelor's degree,1,1,68.0,74.0,74,group D,0
+female,associate's degree,1,0,85.0,91.0,89,group D,0
+male,high school,1,1,60.0,44.0,47,group B,1
+male,some college,1,1,98.0,86.0,90,group C,0
+female,some college,1,0,58.0,67.0,72,group C,0
+female,master's degree,1,0,87.0,100.0,100,group D,0
+male,associate's degree,1,1,66.0,63.0,64,group E,0
+female,associate's degree,0,0,52.0,76.0,70,group B,0
+female,some high school,1,0,70.0,64.0,72,group B,0
+female,,0,1,77.0,89.0,98,group D,0
+male,,1,0,62.0,55.0,49,group C,1
+unknown,associate's degree,1,0,54.0,53.0,47,group A,1
+female,some college,1,0,51.0,58.0,54,group D,0
+female,bachelor's degree,1,1,99.0,100.0,100,group E,0
+male,high school,1,0,84.0,77.0,74,group C,0
+female,bachelor's degree,0,0,75.0,85.0,82,group B,0
+female,bachelor's degree,1,0,78.0,82.0,79,group D,0
+female,some high school,1,0,51.0,63.0,61,group D,0
+unknown,some college,1,0,55.0,69.0,65,group C,0
+female,bachelor's degree,1,1,79.0,92.0,89,group C,0
+male,associate's degree,1,1,91.0,89.0,92,group B,0
+female,some college,1,1,88.0,93.0,93,group C,0
+male,high school,0,0,63.0,57.0,56,group D,0
+male,some college,1,0,83.0,80.0,73,group E,0
+female,high school,1,0,87.0,95.0,86,group B,0
+unknown,some high school,1,0,72.0,68.0,67,group B,0
+male,some college,1,1,65.0,69.20202020202021,74,group D,0
+male,master's degree,1,0,65.48949579831933,82.0,74,group D,0
+female,bachelor's degree,1,0,51.0,49.0,51,group A,0
+male,master's degree,1,0,89.0,84.0,82,group D,0
+male,,0,1,53.0,37.0,40,group C,1
+male,some college,0,1,87.0,74.0,70,group E,0
+female,some college,1,1,75.0,81.0,84,group C,0
+male,bachelor's degree,0,1,74.0,79.0,75,group D,0
+male,bachelor's degree,1,0,58.0,55.0,48,group C,1
+male,some high school,1,1,51.0,54.0,41,group B,1
+male,high school,1,0,70.0,55.0,56,group E,0
+female,associate's degree,1,0,59.0,66.0,67,group C,0
+male,,1,1,71.0,61.0,69,group D,0
+female,some high school,1,0,76.0,72.0,71,group D,0
+female,some college,0,0,59.0,62.0,64,group C,0
+female,some college,0,1,42.0,55.0,54,group E,0
+male,high school,1,0,57.0,43.0,47,group A,1
+male,some college,1,0,88.0,73.0,78,group D,0
+female,some college,0,0,22.0,39.0,33,group C,1
+male,some high school,1,0,88.0,84.0,75,group B,0
+male,associate's degree,0,0,73.0,68.0,66,group C,0
+female,bachelor's degree,1,1,68.0,75.0,81,group D,0
+male,associate's degree,0,1,100.0,100.0,93,group E,0
+male,some high school,1,1,62.0,67.0,69,group A,0
+male,bachelor's degree,1,0,77.0,67.0,68,group A,0
+female,associate's degree,1,1,59.0,70.0,66,group B,0
+male,bachelor's degree,1,0,54.0,49.0,47,group D,1
+male,some high school,1,0,62.0,67.0,61,group D,0
+female,some college,1,1,70.0,89.0,88,group C,0
+female,high school,0,1,66.0,74.0,78,group E,0
+male,some college,0,0,60.0,60.0,60,group B,0
+unknown,associate's degree,1,1,61.0,86.0,87,group B,0
+male,associate's degree,0,0,66.0,62.0,64,group D,0
+male,associate's degree,0,1,82.0,78.0,74,group B,0
+female,some college,0,1,75.0,88.0,85,group E,0
+male,master's degree,0,0,49.0,53.0,52,group B,0
+male,high school,1,0,52.0,53.0,49,group C,1
+unknown,master's degree,1,0,81.0,92.0,91,group E,0
+female,bachelor's degree,1,1,96.0,100.0,100,group C,0
+male,,0,1,53.0,51.0,51,group C,0
+female,master's degree,0,1,58.0,76.0,78,group B,0
+female,high school,1,1,68.0,83.0,78,group B,0
+female,,0,1,67.0,75.0,70,group C,0
+male,high school,1,1,72.0,73.0,74,group A,0
+unknown,some high school,1,0,94.0,88.0,78,group E,0
+female,some college,1,0,79.0,86.0,81,group D,0
+female,associate's degree,1,0,63.0,67.0,70,group C,0
+female,bachelor's degree,0,1,43.0,51.0,54,group C,0
+unknown,master's degree,1,1,81.0,91.0,87,group C,0
+female,high school,0,1,46.0,54.0,58,group B,0
+female,associate's degree,1,1,71.0,77.0,77,group C,0
+female,master's degree,0,1,52.0,70.0,62,group B,0
+female,some high school,1,1,97.0,100.0,100,group D,0
+male,master's degree,1,1,62.0,68.0,75,group C,0
+female,,0,0,46.0,64.0,66,group C,0
+female,high school,1,0,50.0,50.0,47,group E,1
+female,associate's degree,1,0,65.0,69.0,70,group D,0
+male,some high school,0,1,45.0,52.0,49,group C,1
+male,associate's degree,1,1,65.0,67.0,65,group C,0
+male,high school,1,0,80.0,76.0,65,group E,0
+male,some high school,1,1,62.0,66.0,68,group D,0
+male,some high school,0,0,48.0,52.0,45,group B,1
+female,bachelor's degree,1,0,77.0,88.0,87,group C,0
+female,associate's degree,1,0,66.0,65.0,69,group E,0
+male,some college,1,1,76.0,83.0,79,group D,0
+female,some high school,1,0,62.0,64.0,66,group B,0
+male,some college,1,1,77.0,62.0,62,group D,0
+female,,1,1,65.48949579831933,84.0,85,group C,0
+male,associate's degree,1,0,61.0,55.0,52,group D,0
+male,some high school,0,1,59.0,69.0,65,group C,0
+male,high school,0,0,55.0,56.0,51,group E,0
+female,some college,0,0,45.0,53.0,55,group B,0
+female,bachelor's degree,0,0,78.0,79.0,76,group B,0
+female,associate's degree,1,1,67.0,84.0,86,group C,0
+female,some college,0,0,65.0,81.0,77,group D,0
+male,associate's degree,1,0,69.0,77.0,69,group C,0
+female,associate's degree,1,0,57.0,69.0,68,group B,0
+male,some college,1,0,59.0,41.0,42,group C,1
+male,some high school,1,1,74.0,71.0,78,group D,0
+male,,1,0,82.0,62.0,62,group E,0
+male,high school,1,1,81.0,80.0,76,group E,0
+female,some college,0,0,74.0,81.0,76,group B,0
+unknown,,0,0,58.0,61.0,66,group B,0
+male,some high school,0,1,80.0,79.0,79,group D,0
+male,some college,0,0,35.0,28.0,27,group C,1
+female,high school,0,0,42.0,62.0,60,group C,0
+male,associate's degree,0,1,60.0,51.0,56,group C,0
+unknown,high school,1,1,87.0,91.0,81,group E,0
+male,some high school,1,1,84.0,83.0,75,group B,0
+female,associate's degree,0,1,65.48949579831933,86.0,88,group E,0
+female,,0,0,34.0,42.0,39,group C,1
+male,high school,0,0,65.48949579831933,77.0,70,group B,0
+male,,1,1,65.48949579831933,56.0,56,group B,0
+female,high school,1,1,56.0,68.0,74,group D,0
+male,associate's degree,1,0,87.0,85.0,73,group B,0
+female,some high school,0,0,55.0,65.0,62,group C,0
+male,,1,0,86.0,80.0,75,group D,0
+female,associate's degree,1,1,52.0,66.0,73,group B,0
+female,master's degree,0,0,45.0,56.0,54,group E,0
+female,some college,1,0,72.0,72.0,71,group C,0
+male,high school,1,0,57.0,50.0,54,group D,0
+male,some high school,0,0,68.0,72.0,64,group A,0
+unknown,some college,1,1,88.0,95.0,94,group C,0
+male,some college,1,0,76.0,64.0,66,group D,0
+male,associate's degree,1,0,46.0,43.0,42,group C,1
+female,bachelor's degree,1,0,67.0,86.0,83,group B,0
+male,some high school,1,0,92.0,87.0,78,group E,0
+male,bachelor's degree,1,1,83.0,82.0,84,group C,0
+unknown,associate's degree,1,0,80.0,75.0,77,group D,0
+male,bachelor's degree,0,0,63.0,66.0,67,group D,0
+female,some high school,1,1,64.0,60.0,74,group D,0
+male,some college,1,0,54.0,52.0,51,group B,0
+male,associate's degree,1,0,84.0,80.0,80,group C,0
+male,high school,0,1,73.0,68.0,66,group D,0
+female,bachelor's degree,1,0,80.0,83.0,83,group E,0
+female,high school,1,0,56.0,52.0,55,group D,0
+male,some college,1,0,59.0,51.0,43,group E,1
+male,some high school,1,0,75.0,74.0,69,group D,0
+male,associate's degree,1,0,85.0,76.0,71,group C,0
+male,associate's degree,1,0,89.0,76.0,74,group E,0
+female,high school,1,1,58.0,70.0,68,group B,0
+unknown,high school,1,0,65.48949579831933,64.0,62,group B,0
+male,high school,1,0,68.0,60.0,53,group C,0
+male,,1,1,47.0,49.0,49,group A,1
+female,some college,0,0,71.0,83.0,83,group D,0
+female,some high school,1,1,60.0,70.0,70,group B,0
+male,master's degree,1,0,80.0,80.0,72,group D,0
+male,high school,1,0,54.0,52.0,52,group D,0
+female,some college,1,0,62.0,73.0,70,group E,0
+female,associate's degree,0,0,64.0,73.0,68,group C,0
+male,associate's degree,1,1,78.0,77.0,77,group C,0
+female,some college,1,0,70.0,75.0,78,group B,0
+female,master's degree,0,1,65.0,81.0,81,group C,0
+female,,0,1,64.0,79.0,77,group C,0
+male,some college,1,1,79.0,79.0,78,group C,0
+female,,0,0,44.0,50.0,51,group C,0
+female,high school,1,0,99.0,93.0,90,group E,0
+male,high school,1,0,65.48949579831933,73.0,68,group D,0
+male,some high school,0,0,59.0,42.0,41,group D,1
+female,bachelor's degree,1,0,63.0,75.0,81,group C,0
+female,high school,1,0,69.0,72.0,77,group D,0
+female,associate's degree,1,1,88.0,92.0,95,group D,0
+unknown,some college,0,0,71.0,76.0,70,group E,0
+male,bachelor's degree,1,0,65.48949579831933,63.0,61,group C,0
+male,some college,1,0,58.0,49.0,42,group C,1
+female,associate's degree,0,0,47.0,53.0,58,group D,0
+female,some college,1,0,65.48949579831933,70.0,71,group D,0
+male,some college,1,1,88.0,85.0,76,group B,0
+male,bachelor's degree,1,0,83.0,78.0,73,group C,0
+unknown,some high school,1,1,85.0,92.0,93,group C,0
+female,high school,1,1,59.0,63.0,75,group E,0
+female,some high school,0,0,65.0,86.0,80,group C,0
+male,bachelor's degree,0,0,73.0,56.0,57,group B,0
+male,high school,1,0,53.0,52.0,42,group D,1
+male,,1,0,45.0,48.0,46,group D,1
+female,bachelor's degree,0,0,73.0,79.0,84,group D,0
+female,some college,0,1,70.0,78.0,78,group D,0
+female,,1,0,37.0,46.0,46,group B,1
+male,,1,1,81.0,82.0,82,group B,0
+male,associate's degree,1,1,97.0,82.0,88,group E,0
+female,,1,0,67.0,89.0,82,group B,0
+male,bachelor's degree,0,0,88.0,75.0,76,group B,0
+unknown,some high school,1,1,77.0,76.0,77,group E,0
+male,associate's degree,1,0,76.0,70.0,68,group C,0
+male,some high school,1,0,86.0,73.0,70,group D,0
+male,some high school,1,1,63.0,60.0,57,group C,0
+female,bachelor's degree,1,0,65.0,73.0,75,group E,0
+male,,0,1,78.0,77.0,80,group D,0
+male,associate's degree,0,0,67.0,62.0,60,group B,0
+male,some high school,1,1,46.0,41.0,43,group A,1
+male,associate's degree,1,1,71.0,74.0,68,group E,0
+male,high school,0,1,40.0,46.0,50,group C,0
+male,associate's degree,0,0,65.48949579831933,87.0,75,group D,0
+male,some college,0,1,81.0,78.0,81,group A,0
+male,some high school,0,0,56.0,54.0,52,group D,0
+female,associate's degree,1,1,67.0,84.0,81,group C,0
+male,associate's degree,1,0,80.0,76.0,64,group B,0
+female,associate's degree,1,1,74.0,75.0,83,group C,0
+male,some college,1,0,69.0,67.0,69,group A,0
+male,some college,1,1,99.0,87.0,81,group E,0
+male,some high school,1,0,51.0,52.0,44,group C,1
+female,associate's degree,0,0,53.0,71.0,67,group B,0
+female,high school,0,0,49.0,57.0,52,group D,0
+female,associate's degree,1,0,73.0,76.0,80,group B,0
+unknown,bachelor's degree,1,0,66.0,60.0,57,group B,0
+male,bachelor's degree,1,1,67.0,69.20202020202021,68,group D,0
+female,associate's degree,0,1,68.0,67.0,69,group C,0
+female,bachelor's degree,1,1,59.0,64.0,75,group C,0
+male,high school,1,0,71.0,66.0,65,group C,0
+female,master's degree,1,1,77.0,82.0,91,group D,0
+male,associate's degree,1,0,65.48949579831933,72.0,78,group C,0
+male,bachelor's degree,1,0,63.0,71.0,69,group B,0
+female,associate's degree,0,0,56.0,65.0,63,group D,0
+female,high school,0,1,67.0,79.0,84,group C,0
+unknown,high school,1,0,75.0,86.0,79,group E,0
+female,some college,1,0,71.0,81.0,80,group C,0
+female,some high school,0,0,43.0,53.0,53,group C,0
+female,high school,0,0,41.0,46.0,43,group C,1
+female,some college,1,0,82.0,90.0,94,group C,0
+male,some college,1,0,61.0,61.0,62,group C,0
+male,some college,0,0,28.0,23.0,19,group A,1
+male,associate's degree,1,1,82.0,75.0,77,group C,0
+female,some high school,1,0,65.48949579831933,55.0,51,group B,0
+male,high school,1,0,71.0,60.0,61,group C,0
+male,associate's degree,1,0,47.0,37.0,35,group C,1
+male,associate's degree,1,1,62.0,56.0,53,group E,0
+male,associate's degree,1,0,90.0,78.0,81,group B,0
+female,bachelor's degree,1,0,83.0,93.0,95,group C,0
+female,some college,0,0,61.0,68.0,66,group B,0
+male,some high school,1,1,76.0,70.0,69,group D,0
+male,associate's degree,1,0,49.0,51.0,43,group C,1
+female,some high school,0,0,24.0,38.0,27,group B,1
+unknown,some high school,0,1,35.0,55.0,60,group D,0
+male,high school,0,0,58.0,61.0,52,group C,0
+female,high school,1,0,61.0,73.0,63,group C,0
+female,high school,1,1,69.0,76.0,74,group B,0
+male,associate's degree,1,1,67.0,72.0,67,group D,0
+male,some college,1,0,79.0,73.0,67,group D,0
+female,high school,1,0,72.0,80.0,75,group C,0
+male,some college,1,0,62.0,61.0,57,group B,0
+female,bachelor's degree,1,1,77.0,94.0,95,group C,0
+male,high school,0,0,65.48949579831933,74.0,66,group D,0
+male,,1,0,87.0,74.0,76,group E,0
+female,bachelor's degree,1,0,52.0,65.0,69,group B,0
+male,some college,1,0,66.0,69.20202020202021,52,group E,0
+female,some college,1,1,63.0,78.0,80,group C,0
+female,associate's degree,1,0,46.0,58.0,57,group C,0
+female,some college,1,0,59.0,71.0,70,group C,0
+female,bachelor's degree,1,0,61.0,72.0,70,group B,0
+unknown,associate's degree,1,0,63.0,61.0,61,group A,0
+unknown,some college,0,1,42.0,66.0,69,group C,0
+male,some college,0,0,59.0,62.0,61,group D,0
+female,some college,1,0,80.0,90.0,89,group D,0
+female,high school,1,0,58.0,62.0,59,group B,0
+male,some high school,1,1,85.0,84.0,78,group B,0
+female,some college,1,0,52.0,58.0,58,group C,0
+female,some high school,0,0,27.0,34.0,32,group D,1
+male,some college,1,0,59.0,60.0,58,group C,0
+male,,0,1,49.0,58.0,60,group A,0
+male,high school,1,1,69.0,58.0,53,group C,0
+male,bachelor's degree,0,0,61.0,66.0,61,group C,0
+female,some high school,0,0,44.0,64.0,58,group A,0
+female,some high school,1,0,73.0,84.0,85,group D,0
+male,some college,1,0,84.0,77.0,71,group E,0
+female,some college,0,1,45.0,73.0,70,group C,0
+male,some high school,1,0,74.0,69.20202020202021,72,group D,0
+female,some college,1,1,82.0,97.0,96,group D,0
+female,bachelor's degree,1,0,59.0,70.0,73,group D,0
+male,associate's degree,0,0,46.0,43.0,41,group E,1
+female,some high school,1,0,80.0,90.0,82,group D,0
+female,master's degree,0,1,85.0,95.0,100,group D,0
+female,,1,0,71.0,83.0,77,group A,0
+male,bachelor's degree,1,0,66.0,64.0,62,group A,0
+female,associate's degree,1,0,65.48949579831933,86.0,83,group B,0
+male,associate's degree,1,1,87.0,100.0,95,group C,0
+male,master's degree,0,0,79.0,81.0,71,group C,0
+female,some high school,0,0,38.0,49.0,45,group E,1
+female,some high school,0,0,38.0,43.0,43,group A,1
+female,some college,1,0,67.0,76.0,75,group E,0
+unknown,bachelor's degree,1,0,64.0,73.0,70,group E,0
+female,associate's degree,0,0,57.0,78.0,67,group C,0
+female,high school,1,0,62.0,64.0,64,group D,0
+male,master's degree,1,0,73.0,70.0,75,group D,0
+male,some high school,0,1,73.0,67.0,59,group E,0
+female,some college,1,0,77.0,68.0,77,group D,0
+unknown,some college,1,0,76.0,67.0,67,group E,0
+male,associate's degree,1,1,0.0,54.0,56,group C,0
+female,some high school,1,1,65.0,74.0,77,group C,0
+male,high school,0,0,48.0,45.0,41,group A,1
+female,high school,0,0,50.0,67.0,63,group B,0
+female,associate's degree,1,0,85.0,89.0,95,group C,0
+male,,1,0,74.0,63.0,57,group B,0
+male,some high school,1,0,60.0,59.0,54,group D,0
+female,some high school,1,1,59.0,54.0,67,group C,0
+male,some college,1,0,53.0,43.0,43,group A,1
+female,some college,0,0,49.0,65.0,55,group A,0
+female,high school,1,1,88.0,99.0,100,group D,0
+female,high school,1,0,54.0,59.0,62,group C,0
+unknown,some high school,1,0,63.0,73.0,68,group C,0
+male,,1,1,65.0,65.0,63,group B,0
+female,associate's degree,1,0,82.0,80.0,77,group B,0
+female,high school,0,1,0.0,57.0,56,group D,0
+male,associate's degree,1,1,87.0,84.0,85,group D,0
+unknown,master's degree,1,1,70.0,71.0,74,group D,0
+male,,1,1,84.0,83.0,78,group E,0
+male,associate's degree,1,0,71.0,66.0,60,group D,0
+male,some high school,1,1,63.0,67.0,67,group B,0
+female,bachelor's degree,0,1,51.0,72.0,79,group C,0
+male,high school,1,0,84.0,73.0,69,group E,0
+male,bachelor's degree,1,1,71.0,74.0,68,group C,0
+male,associate's degree,1,0,65.48949579831933,73.0,67,group C,0
+male,,1,0,68.0,59.0,62,group D,0
+unknown,high school,0,1,57.0,56.0,54,group E,0
+female,associate's degree,0,1,82.0,93.0,93,group C,0
+female,,1,1,57.0,58.0,64,group D,0
+unknown,master's degree,0,1,47.0,58.0,67,group D,0
+unknown,some high school,1,1,59.0,85.0,80,group A,0
+male,some college,0,0,41.0,39.0,34,group B,1
+female,some college,0,0,62.0,67.0,62,group C,0
+male,bachelor's degree,1,0,86.0,83.0,86,group C,0
+male,some high school,0,0,65.48949579831933,71.0,65,group C,0
+male,some high school,0,0,65.0,59.0,53,group A,0
+male,some high school,0,0,68.0,63.0,54,group C,0
+male,associate's degree,0,0,64.0,66.0,59,group C,0
+female,high school,1,0,61.0,72.0,70,group C,0
+male,high school,1,0,61.0,56.0,55,group C,0
+female,some high school,0,0,47.0,59.0,50,group A,0
+male,,1,0,73.0,66.0,66,group C,0
+male,some college,0,1,0.0,48.0,53,group C,0
+male,associate's degree,1,0,75.0,68.0,64,group D,0
+unknown,associate's degree,0,0,75.0,66.0,73,group D,0
+male,high school,1,0,70.0,56.0,51,group C,0
+male,some high school,1,1,89.0,88.0,82,group D,0
+female,some college,1,1,67.0,81.0,79,group C,0
+female,high school,1,0,78.0,81.0,80,group D,0
+female,some high school,0,0,59.0,73.0,69,group A,0
+female,associate's degree,1,0,73.0,83.0,76,group B,0
+male,some high school,0,0,79.0,82.0,73,group A,0
+female,some high school,1,1,67.0,74.0,77,group C,0
+unknown,some college,0,0,69.0,66.0,60,group D,0
+male,,1,1,86.0,81.0,80,group C,0
+male,high school,1,0,47.0,46.0,42,group B,1
+male,associate's degree,1,0,81.0,73.0,72,group B,0
+unknown,some college,0,1,64.0,85.0,85,group C,0
+female,some college,1,0,100.0,92.0,97,group E,0
+unknown,associate's degree,0,0,65.0,77.0,74,group C,0
+male,some college,0,0,65.0,58.0,49,group C,1
+female,associate's degree,0,0,53.0,61.0,62,group C,0
+male,bachelor's degree,0,0,37.0,56.0,47,group C,1
+female,bachelor's degree,1,0,79.0,89.0,89,group D,0
+male,associate's degree,0,0,53.0,54.0,48,group D,1
+female,bachelor's degree,1,0,65.48949579831933,100.0,100,group E,0
+male,high school,1,1,72.0,65.0,68,group B,0
+male,bachelor's degree,1,0,53.0,58.0,55,group C,0
+male,some college,0,0,54.0,54.0,45,group B,1
+female,,1,0,71.0,70.0,76,group E,0
+female,some college,0,0,77.0,90.0,91,group C,0
+male,bachelor's degree,1,1,75.0,58.0,62,group A,0
+female,,1,0,84.0,87.0,91,group C,0
+female,associate's degree,0,0,26.0,31.0,38,group D,1
+male,high school,0,1,72.0,67.0,65,group A,0
+female,,0,1,77.0,88.0,85,group A,0
+male,some college,1,0,91.0,74.0,76,group C,0
+female,associate's degree,1,1,83.0,85.0,90,group C,0
+female,high school,1,0,63.0,69.0,74,group C,0
+female,,1,1,68.0,86.0,84,group C,0
+female,,1,0,59.0,67.0,61,group D,0
+female,associate's degree,1,1,90.0,90.0,91,group B,0
+female,bachelor's degree,1,1,71.0,76.0,83,group D,0
+male,bachelor's degree,1,1,76.0,62.0,66,group E,0
+male,associate's degree,1,0,80.0,68.0,72,group D,0
+female,master's degree,1,0,55.0,64.0,70,group D,0
+male,associate's degree,1,0,76.0,71.0,67,group E,0
+male,high school,1,1,73.0,71.0,68,group B,0
+female,associate's degree,0,0,52.0,59.0,56,group D,0
+male,,0,0,68.0,68.0,61,group C,0
+male,high school,1,0,59.0,52.0,46,group A,1
+female,associate's degree,1,0,49.0,52.0,54,group B,0
+male,high school,1,0,70.0,74.0,71,group C,0
+male,some college,0,0,61.0,47.0,56,group D,0
+female,associate's degree,0,0,60.0,75.0,74,group C,0
+male,some high school,1,1,64.0,53.0,57,group B,0
+male,associate's degree,0,1,79.0,82.0,82,group A,0
+female,associate's degree,0,0,65.0,85.0,76,group A,0
+female,associate's degree,1,0,64.0,64.0,70,group C,0
+female,some college,1,0,83.0,83.0,90,group C,0
+female,bachelor's degree,1,0,81.0,88.0,90,group C,0
+unknown,high school,1,0,54.0,64.0,68,group B,0
+male,high school,1,1,68.0,64.0,66,group D,0
+female,some college,1,0,54.0,48.0,52,group C,0
+female,some college,0,1,59.0,78.0,76,group D,0
+female,some high school,1,0,66.0,69.0,68,group B,0
+male,some college,1,0,76.0,71.0,72,group E,0
+female,master's degree,1,0,74.0,79.0,82,group D,0
+female,associate's degree,1,1,94.0,87.0,92,group B,0
+male,some college,0,0,63.0,61.0,54,group C,0
+female,associate's degree,1,1,95.0,89.0,92,group E,0
+female,master's degree,0,0,40.0,59.0,54,group D,0
+unknown,some high school,1,0,82.0,82.0,80,group B,0
+male,high school,1,0,68.0,70.0,66,group A,0
+unknown,bachelor's degree,0,0,55.0,59.0,54,group B,0
+male,master's degree,1,0,79.0,69.20202020202021,77,group C,0
+female,bachelor's degree,1,0,65.48949579831933,92.0,87,group C,0
+male,some college,1,0,76.0,71.0,73,group D,0
+male,some high school,1,0,64.0,50.0,43,group A,1
+unknown,some high school,0,0,62.0,49.0,52,group D,0
+unknown,some high school,1,1,54.0,61.0,62,group B,0
+female,master's degree,0,1,77.0,97.0,94,group B,0
+female,some high school,1,1,76.0,87.0,85,group C,0
+female,some college,1,0,74.0,89.0,84,group D,0
+female,some college,1,1,66.0,74.0,73,group E,0
+female,some high school,1,1,66.0,78.0,78,group D,0
+female,high school,0,1,67.0,78.0,79,group B,0
+male,some college,1,0,71.0,49.0,52,group D,0
+female,associate's degree,1,0,91.0,86.0,84,group C,0
+male,bachelor's degree,1,0,69.0,58.0,57,group D,0
+male,master's degree,0,0,54.0,59.0,50,group C,0
+male,high school,1,1,53.0,52.0,49,group C,1
+male,some college,1,0,68.0,60.0,59,group E,0
+male,some high school,0,1,56.0,61.0,60,group C,0
+female,high school,0,0,36.0,53.0,43,group C,1
+female,,0,0,29.0,41.0,47,group D,1
+female,associate's degree,1,0,62.0,74.0,70,group C,0
+female,associate's degree,1,1,68.0,67.0,73,group C,0
+female,some high school,1,0,47.0,54.0,53,group C,0
+male,associate's degree,1,1,62.0,61.0,58,group E,0
+female,associate's degree,1,1,79.0,88.0,94,group E,0
+male,high school,1,1,73.0,69.0,68,group B,0
+female,bachelor's degree,0,1,66.0,83.0,83,group C,0
+male,associate's degree,1,1,51.0,60.0,58,group C,0
+female,high school,1,0,51.0,66.0,62,group D,0
+unknown,bachelor's degree,1,1,85.0,66.0,71,group E,0
+male,associate's degree,1,1,65.48949579831933,92.0,86,group A,0
+unknown,high school,1,1,75.0,69.0,68,group C,0
+male,associate's degree,0,1,79.0,82.0,80,group D,0
+female,associate's degree,1,0,81.0,77.0,79,group C,0
+female,associate's degree,1,0,82.0,95.0,89,group D,0
+female,master's degree,1,0,64.0,63.0,66,group D,0
+male,some high school,0,1,78.0,83.0,80,group E,0
+female,some high school,1,1,92.0,100.0,97,group A,0
+male,high school,1,1,72.0,67.0,64,group C,0
+female,high school,0,0,62.0,67.0,64,group C,0
+male,master's degree,1,0,79.0,72.0,69,group C,0
+male,some high school,0,0,79.0,76.0,65,group C,0
+male,bachelor's degree,0,1,87.0,90.0,88,group B,0
+female,associate's degree,1,0,40.0,48.0,50,group B,0
+male,,0,0,77.0,62.0,64,group D,0
+male,associate's degree,1,0,53.0,45.0,40,group E,1
+female,some college,0,0,32.0,39.0,33,group C,1
+female,associate's degree,1,1,65.48949579831933,72.0,79,group C,0
+male,master's degree,0,0,61.0,67.0,66,group C,0
+female,associate's degree,0,0,53.0,70.0,70,group B,0
+male,some high school,1,0,73.0,66.0,62,group D,0
+female,some college,1,1,74.0,75.0,79,group D,0
+female,some college,1,0,63.0,74.0,74,group C,0
+male,bachelor's degree,1,1,96.0,90.0,92,group C,0
+female,some college,0,1,63.0,80.0,80,group D,0
+male,bachelor's degree,0,0,0.0,51.0,46,group B,1
+male,associate's degree,1,0,48.0,43.0,45,group B,1
+unknown,bachelor's degree,0,1,92.0,100.0,100,group E,0
+female,master's degree,0,1,61.0,71.0,78,group D,0
+male,high school,0,0,63.0,48.0,47,group B,1
+male,bachelor's degree,0,0,68.0,68.0,67,group D,0
+male,some college,1,1,71.0,75.0,70,group B,0
+male,bachelor's degree,1,0,91.0,96.0,92,group A,0
+female,some college,1,0,53.0,62.0,56,group C,0
+female,high school,0,1,50.0,66.0,64,group C,0
+female,high school,1,0,74.0,81.0,71,group E,0
+male,associate's degree,0,1,40.0,55.0,53,group A,0
+male,some college,1,1,61.0,51.0,52,group A,0
+female,high school,1,0,81.0,91.0,89,group B,0
+female,some college,0,1,48.0,56.0,58,group B,0
+female,master's degree,1,0,53.0,61.0,68,group D,0
+female,,1,0,81.0,97.0,96,group D,0
+unknown,some high school,1,0,77.0,79.0,80,group E,0
+female,bachelor's degree,0,0,63.0,73.0,78,group D,0
+female,associate's degree,1,1,73.0,75.0,80,group D,0
+female,some college,1,0,69.0,77.0,77,group D,0
+female,associate's degree,1,0,65.0,76.0,76,group C,0
+female,high school,1,0,65.48949579831933,73.0,73,group A,0
+female,bachelor's degree,0,0,44.0,63.0,62,group C,0
+female,some college,1,0,54.0,64.0,65,group C,0
+female,some high school,1,0,48.0,66.0,65,group A,0
+male,some college,1,0,65.48949579831933,57.0,54,group C,0
+male,some high school,1,0,71.0,62.0,50,group A,0
+male,bachelor's degree,1,0,68.0,68.0,64,group E,0
+female,high school,1,0,74.0,76.0,73,group E,0
+female,,1,1,92.0,100.0,99,group C,0
+female,bachelor's degree,1,1,56.0,79.0,72,group C,0
+male,high school,0,0,30.0,24.0,15,group B,1
+male,some high school,1,0,53.0,54.0,48,group A,1
+female,high school,1,0,69.0,77.0,73,group D,0
+female,some high school,1,0,65.0,82.0,81,group D,0
+female,master's degree,1,0,54.0,60.0,63,group D,0
+female,,1,0,29.0,29.0,30,group C,1
+female,some college,1,0,65.48949579831933,78.0,80,group E,0
+male,high school,0,0,60.0,57.0,51,group D,0
+male,master's degree,0,1,84.0,89.0,90,group D,0
+male,some high school,1,0,75.0,72.0,62,group C,0
+female,associate's degree,1,0,85.0,84.0,82,group C,0
+female,master's degree,0,0,40.0,58.0,54,group C,0
+unknown,some college,1,0,0.0,64.0,62,group E,0
+female,associate's degree,1,0,58.0,63.0,65,group B,0
+male,some college,0,1,69.0,60.0,63,group D,0
+female,some college,1,0,58.0,59.0,66,group C,0
+male,bachelor's degree,1,1,94.0,90.0,91,group C,0
+unknown,associate's degree,1,0,65.0,77.0,74,group C,0
+female,associate's degree,1,0,82.0,93.0,93,group A,0
+female,high school,1,0,60.0,68.0,72,group C,0
+female,bachelor's degree,1,0,37.0,45.0,38,group E,1
+male,bachelor's degree,1,0,88.0,78.0,83,group D,0
+male,master's degree,1,0,95.0,81.0,84,group D,0
+male,associate's degree,0,1,65.0,73.0,68,group C,0
+female,high school,0,0,35.0,61.0,54,group C,0
+male,bachelor's degree,0,0,62.0,63.0,56,group B,0
+male,high school,0,1,58.0,51.0,52,group C,0
+male,some college,1,1,100.0,96.0,86,group A,0
+female,bachelor's degree,0,0,61.0,58.0,62,group E,0
+male,some college,1,1,100.0,97.0,99,group D,0
+male,associate's degree,0,1,65.48949579831933,70.0,63,group B,0
+male,associate's degree,1,0,61.0,48.0,46,group D,1
+male,some college,0,0,49.0,57.0,46,group D,1
+female,some high school,1,1,44.0,51.0,55,group C,0
+male,some college,1,0,67.0,64.0,70,group D,0
+male,high school,1,0,79.0,60.0,65,group B,0
+female,bachelor's degree,1,1,66.0,74.0,81,group B,0
+female,high school,1,0,75.0,88.0,85,group C,0
+male,some high school,1,0,84.0,84.0,80,group D,0
+male,high school,1,0,71.0,74.0,64,group A,0
+female,high school,0,1,67.0,80.0,81,group B,0
+female,some high school,1,1,80.0,92.0,88,group D,0
+male,some college,1,0,86.0,76.0,74,group E,0
+unknown,associate's degree,1,0,76.0,74.0,73,group D,0
+male,high school,1,0,41.0,52.0,51,group D,0
+female,associate's degree,0,1,74.0,88.0,90,group D,0
+female,some high school,0,0,72.0,81.0,79,group B,0
+female,high school,1,1,74.0,79.0,80,group E,0
+male,high school,1,0,70.0,65.0,60,group B,0
+female,bachelor's degree,1,1,65.0,81.0,81,group B,0
+female,associate's degree,1,0,65.48949579831933,70.0,65,group D,0
+female,high school,0,0,64.0,62.0,68,group E,0
+female,high school,1,0,50.0,53.0,55,group B,0
+female,some college,1,1,69.0,79.0,81,group D,0
+male,some high school,0,1,51.0,56.0,53,group C,0
+female,high school,1,1,68.0,80.0,76,group A,0
+female,some college,1,1,85.0,86.0,98,group D,0
+female,associate's degree,1,1,65.0,70.0,74,group A,0
+female,some high school,1,0,73.0,79.0,79,group B,0
+female,some college,1,0,62.0,67.0,67,group B,0
+male,associate's degree,0,0,77.0,67.0,64,group C,0
+male,some high school,1,0,69.0,66.0,61,group D,0
+unknown,associate's degree,0,0,43.0,60.0,58,group D,0
+unknown,associate's degree,1,0,90.0,87.0,85,group D,0
+male,some college,0,0,74.0,77.0,73,group C,0
+male,some high school,1,0,73.0,66.0,63,group C,0
+unknown,some college,0,0,55.0,71.0,69,group D,0
+unknown,high school,1,0,65.0,69.0,67,group C,0
+male,associate's degree,1,0,65.48949579831933,63.0,63,group D,0
+female,some high school,0,1,50.0,60.0,60,group C,0
+female,,0,1,63.0,73.0,71,group C,0
+unknown,,0,0,77.0,85.0,87,group B,0
+male,some college,1,0,73.0,74.0,61,group C,0
+male,associate's degree,1,1,81.0,72.0,77,group D,0
+female,,0,0,66.0,76.0,68,group C,0
+male,associate's degree,0,0,52.0,57.0,50,group D,0
+female,some college,1,0,69.0,78.0,76,group C,0
+female,associate's degree,1,1,65.0,84.0,84,group C,0
+female,high school,1,1,69.0,77.0,78,group D,0
+female,some college,1,1,50.0,64.0,66,group B,0
+female,some college,1,1,73.0,78.0,76,group E,0
+female,,1,1,70.0,82.0,76,group C,0
+male,associate's degree,0,0,81.0,75.0,78,group D,0
+male,some college,0,0,63.0,61.0,60,group D,0
+female,high school,1,0,67.0,72.0,74,group D,0
+male,high school,1,0,60.0,68.0,60,group B,0
+male,high school,1,0,62.0,55.0,54,group B,0
+female,some high school,0,1,29.0,40.0,44,group C,1
+male,,1,1,62.0,66.0,68,group B,0
+female,master's degree,1,1,94.0,99.0,100,group E,0
+male,some college,1,1,85.0,75.0,68,group E,0
+male,associate's degree,0,0,77.0,78.0,73,group D,0
+male,high school,0,0,53.0,58.0,44,group A,1
+male,some college,0,0,65.48949579831933,90.0,83,group E,0
+female,associate's degree,1,0,49.0,53.0,53,group C,0
+female,associate's degree,0,0,73.0,76.0,78,group E,0
+female,bachelor's degree,0,1,66.0,74.0,81,group C,0
+female,associate's degree,1,0,77.0,77.0,73,group D,0
+female,some high school,1,0,49.0,63.0,56,group C,0
+female,some college,0,0,79.0,89.0,86,group D,0
+female,associate's degree,1,1,75.0,82.0,90,group C,0
+female,bachelor's degree,1,0,59.0,72.0,70,group A,0
+female,associate's degree,1,1,57.0,78.0,79,group D,0
+male,high school,0,0,66.0,66.0,59,group C,0
+female,bachelor's degree,1,1,79.0,81.0,82,group E,0
+female,some high school,1,0,57.0,67.0,72,group B,0
+male,bachelor's degree,1,1,87.0,84.0,87,group A,0
+female,some college,1,0,63.0,64.0,67,group D,0
+female,some high school,0,1,59.0,63.0,64,group B,0
+male,,0,0,62.0,72.0,65,group A,0
+male,high school,1,0,46.0,34.0,36,group D,1
+male,some college,1,0,66.0,59.0,52,group C,0
+male,high school,1,0,89.0,87.0,79,group D,0
+female,associate's degree,0,1,42.0,61.0,58,group D,0
+male,some college,1,1,93.0,84.0,90,group C,0
+female,some high school,1,1,80.0,85.0,85,group E,0
+female,some college,1,0,98.0,100.0,99,group D,0
+male,master's degree,1,0,81.0,81.0,84,group D,0
+female,some high school,1,1,60.0,70.0,74,group B,0
+female,associate's degree,0,1,76.0,94.0,87,group B,0
+male,associate's degree,1,1,73.0,78.0,72,group C,0
+female,associate's degree,1,1,96.0,96.0,99,group C,0
+female,high school,1,0,76.0,76.0,74,group C,0
+male,associate's degree,0,1,91.0,73.0,80,group E,0
+unknown,some college,0,0,65.48949579831933,72.0,70,group C,0
+male,some high school,0,1,55.0,59.0,59,group D,0
+female,some high school,0,1,74.0,90.0,88,group B,0
+male,high school,1,0,50.0,48.0,42,group C,1
+male,some college,1,0,47.0,43.0,41,group B,1
+male,some college,1,1,81.0,74.0,71,group E,0
+female,associate's degree,1,1,65.0,75.0,77,group E,0
+male,some high school,1,1,68.0,51.0,57,group E,0
+female,high school,0,0,73.0,92.0,84,group D,0
+male,some college,1,0,53.0,39.0,37,group C,1
+female,associate's degree,0,1,68.0,77.0,80,group B,0
+male,some high school,0,0,65.48949579831933,46.0,43,group A,1
+female,some college,1,1,87.0,89.0,94,group C,0
+male,some high school,1,0,55.0,47.0,44,group D,1
+female,some college,0,0,53.0,58.0,57,group E,0
+male,master's degree,1,0,67.0,57.0,59,group C,0
+male,associate's degree,1,0,92.0,79.0,84,group C,0
+female,some college,0,1,53.0,66.0,73,group B,0
+male,associate's degree,1,0,81.0,71.0,73,group D,0
+male,high school,0,0,61.0,60.0,55,group C,0
+male,bachelor's degree,1,0,80.0,73.0,72,group D,0
+female,associate's degree,0,0,37.0,57.0,56,group A,0
+female,high school,1,0,81.0,84.0,82,group C,0
+female,associate's degree,1,1,59.0,73.0,72,group C,0
+male,some college,0,0,55.0,55.0,47,group B,1
+male,associate's degree,1,0,72.0,79.0,74,group D,0
+male,high school,1,0,69.0,75.0,71,group D,0
+male,some college,1,0,69.0,64.0,68,group C,0
+female,bachelor's degree,0,0,50.0,60.0,59,group C,0
+unknown,some college,1,1,87.0,84.0,86,group B,0
+male,some high school,1,1,71.0,69.0,68,group D,0
+male,some college,1,0,68.0,72.0,65,group E,0
+male,master's degree,0,1,79.0,77.0,75,group C,0
+female,some high school,1,1,77.0,90.0,85,group C,0
+male,associate's degree,0,0,58.0,55.0,53,group C,0
+female,associate's degree,1,0,84.0,95.0,92,group E,0
+male,some college,1,0,65.48949579831933,58.0,52,group D,0
+male,bachelor's degree,0,1,70.0,68.0,72,group E,0
+female,some college,0,1,52.0,59.0,65,group D,0
+male,some college,1,1,69.0,77.0,77,group B,0
+female,high school,0,0,53.0,72.0,64,group C,0
+female,,1,0,48.0,58.0,54,group D,0
+male,some high school,1,1,78.0,81.0,86,group D,0
+female,high school,1,0,62.0,62.0,63,group B,0
+male,some college,1,0,60.0,63.0,59,group D,0
+female,high school,1,0,74.0,72.0,72,group B,0
+female,high school,1,1,58.0,75.0,77,group C,0
+male,high school,1,1,76.0,62.0,60,group B,0
+female,some high school,1,0,68.0,71.0,75,group D,0
+male,some college,0,0,58.0,60.0,57,group A,0
+male,high school,1,0,52.0,48.0,49,group B,1
+male,bachelor's degree,1,0,65.48949579831933,73.0,74,group D,0
+female,some high school,0,1,52.0,67.0,72,group B,0
+female,bachelor's degree,0,0,62.0,78.0,79,group C,0
+unknown,some college,1,0,66.0,65.0,60,group B,0
+female,some high school,0,0,49.0,58.0,55,group B,0
+female,,1,0,66.0,72.0,70,group B,0
+female,some college,0,0,65.48949579831933,44.0,43,group C,1
+female,some college,1,1,72.0,69.20202020202021,82,group A,0
+unknown,associate's degree,1,1,94.0,85.0,82,group E,0
+female,associate's degree,0,0,46.0,56.0,57,group D,0
+female,master's degree,1,0,77.0,90.0,84,group B,0
+unknown,high school,0,1,76.0,85.0,82,group B,0
+female,associate's degree,1,1,52.0,59.0,62,group C,0
+male,,1,1,91.0,81.0,79,group C,0
+unknown,some high school,1,1,65.48949579831933,51.0,44,group B,1
+female,some high school,0,0,72.0,79.0,77,group E,0
+female,some college,1,0,19.0,38.0,32,group B,1
+male,associate's degree,0,0,68.0,65.0,61,group C,0
+female,master's degree,0,0,52.0,65.0,61,group C,0
+female,high school,1,0,48.0,62.0,60,group B,0
+female,some college,0,0,60.0,66.0,70,group D,0
+male,high school,0,0,66.0,74.0,69,group D,0
+male,some high school,1,1,89.0,84.0,77,group E,0
+female,high school,1,0,42.0,52.0,51,group B,0
+female,associate's degree,0,1,57.0,68.0,73,group E,0
+male,,1,0,70.0,70.0,70,group D,0
+female,associate's degree,0,0,70.0,84.0,81,group E,0
+male,some college,1,0,69.0,60.0,54,group E,0
+unknown,associate's degree,1,0,52.0,55.0,57,group C,0
+male,,1,1,67.0,73.0,68,group C,0
+male,some high school,1,1,76.0,80.0,73,group C,0
+female,associate's degree,1,0,87.0,94.0,95,group E,0
+female,some college,1,0,82.0,85.0,87,group B,0
+female,some college,1,0,73.0,76.0,78,group C,0
+male,some college,0,0,75.0,81.0,74,group A,0
+unknown,some college,0,0,64.0,74.0,75,group D,0
+female,high school,0,0,41.0,45.0,40,group E,1
+male,high school,1,0,90.0,75.0,69,group C,0
+male,bachelor's degree,1,0,65.48949579831933,54.0,51,group B,0
+male,some high school,1,0,51.0,31.0,36,group A,1
+unknown,high school,0,0,45.0,47.0,49,group A,1
+female,master's degree,1,1,54.0,64.0,67,group C,0
+male,some high school,1,1,87.0,84.0,76,group E,0
+female,high school,1,0,72.0,80.0,83,group C,0
+male,some high school,1,1,94.0,86.0,87,group B,0
+female,bachelor's degree,1,0,45.0,59.0,64,group A,0
+male,bachelor's degree,0,1,61.0,70.0,76,group D,0
+female,high school,0,0,60.0,72.0,68,group B,0
+female,some high school,1,0,77.0,91.0,88,group C,0
+female,some high school,1,1,85.0,90.0,92,group A,0
+female,bachelor's degree,0,0,78.0,90.0,93,group D,0
+male,some college,0,1,49.0,52.0,51,group E,0
+female,high school,0,0,71.0,87.0,82,group B,0
+female,,0,0,48.0,58.0,52,group C,0
+male,high school,1,0,62.0,67.0,58,group C,0
+female,associate's degree,0,1,56.0,68.0,70,group C,0
+female,,1,0,65.0,69.0,76,group C,0
+female,some high school,0,1,69.0,86.0,81,group D,0
+male,some high school,1,0,68.0,54.0,53,group B,0
+female,,0,0,61.0,60.0,57,group A,0
+female,bachelor's degree,0,1,74.0,86.0,89,group C,0
+male,bachelor's degree,1,0,64.0,60.0,58,group A,0
+female,high school,1,1,77.0,82.0,89,group B,0
+male,some college,1,0,58.0,50.0,45,group B,1
+female,high school,1,1,60.0,64.0,74,group C,0
+male,high school,1,0,73.0,64.0,57,group E,0
+female,high school,1,1,75.0,82.0,79,group A,0
+unknown,associate's degree,0,1,58.0,57.0,53,group B,0
+female,associate's degree,1,0,66.0,77.0,73,group C,0
+unknown,high school,1,0,39.0,52.0,46,group D,1
+male,some high school,1,0,64.0,58.0,51,group C,0
+female,high school,0,1,23.0,44.0,36,group B,1
+male,some college,0,1,74.0,77.0,76,group B,0
+female,some high school,0,1,40.0,65.0,64,group D,0
+unknown,master's degree,1,0,65.48949579831933,85.0,84,group E,0
+male,master's degree,1,1,91.0,85.0,85,group C,0
+male,high school,1,0,64.0,54.0,50,group D,0
+female,high school,1,0,59.0,72.0,68,group C,0
+male,,1,0,65.48949579831933,75.0,69,group D,0
+male,master's degree,1,0,71.0,67.0,67,group C,0
+female,high school,1,0,65.48949579831933,68.0,63,group A,0
+female,some college,1,0,87.0,85.0,93,group E,0
+male,some high school,1,0,82.0,67.0,61,group E,0
+male,some high school,1,0,62.0,64.0,55,group C,0
+female,bachelor's degree,1,0,97.0,97.0,96,group B,0
+unknown,some college,0,0,75.0,68.0,65,group B,0
+unknown,bachelor's degree,1,0,65.0,79.0,81,group C,0
+unknown,,1,1,52.0,49.0,46,group B,1
+male,associate's degree,0,0,87.0,73.0,72,group C,0
+female,associate's degree,1,0,53.0,62.0,53,group C,0
+female,master's degree,0,0,81.0,86.0,87,group E,0
+male,bachelor's degree,0,1,39.0,42.0,38,group D,1
+female,some college,1,1,65.48949579831933,71.0,80,group C,0
+male,associate's degree,1,0,65.48949579831933,93.0,91,group C,0
+male,,1,1,82.0,82.0,88,group D,0
+male,high school,0,0,59.0,53.0,52,group C,0
+male,,1,0,61.0,42.0,41,group B,1
+male,associate's degree,0,1,78.0,74.0,72,group E,0
+male,associate's degree,0,0,49.0,51.0,51,group C,0
+male,high school,1,0,59.0,58.0,47,group B,1
+female,some college,1,1,70.0,72.0,76,group C,0
+male,associate's degree,1,1,82.0,84.0,78,group B,0
+male,associate's degree,0,0,90.0,90.0,82,group E,0
+female,bachelor's degree,0,0,43.0,62.0,61,group C,0
+male,some college,0,0,80.0,64.0,66,group C,0
+male,some college,1,0,81.0,82.0,84,group D,0
+male,some high school,1,0,57.0,61.0,54,group C,0
+female,some high school,1,0,59.0,72.0,80,group D,0
+female,associate's degree,1,0,64.0,76.0,74,group D,0
+male,bachelor's degree,1,1,63.0,64.0,66,group C,0
+female,,1,1,71.0,70.0,70,group E,0
+female,high school,0,0,64.0,73.0,71,group B,0
+male,bachelor's degree,0,0,55.0,46.0,44,group D,1
+female,associate's degree,1,0,51.0,51.0,54,group E,0
+female,associate's degree,1,1,62.0,76.0,80,group C,0
+female,associate's degree,1,1,93.0,100.0,95,group E,0
+male,high school,0,0,54.0,72.0,59,group C,0
+female,some college,0,0,69.0,65.0,74,group D,0
+male,high school,0,0,65.48949579831933,51.0,48,group D,1
+female,some college,1,1,65.48949579831933,85.0,91,group E,0
+female,associate's degree,1,0,85.0,92.0,85,group E,0
+female,,0,0,50.0,67.0,73,group A,0
+male,some high school,1,1,88.0,74.0,75,group D,0
+female,associate's degree,1,0,59.0,62.0,69,group E,0
+female,some high school,0,0,32.0,34.0,38,group E,1
+male,high school,0,0,36.0,29.0,27,group B,1
+female,some high school,0,1,63.0,78.0,79,group B,0
+male,associate's degree,1,1,67.0,69.20202020202021,63,group D,0
+female,some high school,1,1,65.0,78.0,82,group D,0
+male,master's degree,1,0,85.0,84.0,89,group D,0
+female,master's degree,1,0,73.0,78.0,74,group C,0
+unknown,high school,0,1,34.0,48.0,41,group A,1
+female,bachelor's degree,0,1,93.0,100.0,100,group D,0
+female,some high school,0,0,67.0,84.0,84,group D,0
+male,some college,1,0,88.0,77.0,77,group D,0
+male,high school,1,0,57.0,48.0,51,group B,0
+female,some college,1,1,79.0,84.0,91,group D,0
+female,bachelor's degree,0,0,67.0,75.0,72,group C,0
+male,bachelor's degree,1,1,70.0,64.0,70,group E,0
+unknown,bachelor's degree,0,0,50.0,42.0,48,group D,1
+female,some college,1,0,69.0,84.0,82,group A,0
+unknown,bachelor's degree,1,1,52.0,61.0,66,group C,0
+female,bachelor's degree,0,1,47.0,62.0,66,group C,0
+female,associate's degree,0,0,46.0,61.0,55,group B,0
+unknown,some college,1,0,68.0,70.0,66,group E,0
+male,bachelor's degree,1,1,100.0,100.0,100,group E,0
+female,high school,1,0,44.0,61.0,52,group C,0
+unknown,associate's degree,1,1,57.0,77.0,80,group C,0
+male,some college,1,1,0.0,96.0,91,group B,0
+male,high school,0,0,69.0,70.0,67,group D,0
+female,high school,0,0,35.0,53.0,46,group C,1
+male,high school,1,0,72.0,66.0,66,group D,0
+female,associate's degree,0,0,54.0,65.0,65,group B,0
+male,high school,0,0,65.48949579831933,70.0,69,group D,0
+male,some high school,1,1,74.0,64.0,60,group E,0
+male,associate's degree,0,0,64.0,56.0,52,group E,0
+female,high school,0,1,65.0,69.20202020202021,71,group D,0
+male,associate's degree,0,1,46.0,43.0,44,group E,1
+female,some high school,0,0,48.0,56.0,51,group C,0
+male,some college,0,1,67.0,74.0,70,group C,0
+male,some college,0,0,62.0,57.0,62,group D,0
+male,associate's degree,0,1,61.0,71.0,73,group D,0
+male,bachelor's degree,0,1,70.0,75.0,74,group C,0
+male,associate's degree,1,1,98.0,87.0,90,group C,0
+male,some college,0,0,70.0,63.0,58,group D,0
+male,associate's degree,1,0,65.48949579831933,57.0,53,group A,0
+unknown,high school,0,0,57.0,58.0,57,group E,0
+male,some college,1,1,85.0,81.0,85,group D,0
+male,some high school,1,1,77.0,68.0,69,group D,0
+male,master's degree,0,1,72.0,66.0,72,group C,0
+female,master's degree,1,0,78.0,91.0,96,group D,0
+male,,1,0,81.0,66.0,64,group C,0
+male,some high school,0,1,61.0,62.0,61,group A,0
+female,high school,1,0,58.0,68.0,61,group B,0
+female,associate's degree,1,0,54.0,61.0,58,group C,0
+male,,1,0,82.0,82.0,80,group B,0
+female,some college,0,0,49.0,58.0,60,group D,0
+male,some high school,0,1,49.0,50.0,52,group B,0
+female,high school,0,1,57.0,75.0,73,group E,0
+male,high school,1,0,94.0,73.0,71,group E,0
+female,some college,1,1,75.0,77.0,83,group D,0
+female,some high school,0,0,74.0,74.0,72,group E,0
+male,high school,1,1,65.48949579831933,52.0,54,group C,0
+female,some college,1,0,62.0,69.0,69,group C,0
+male,associate's degree,1,0,72.0,57.0,62,group E,0
+male,some college,1,0,84.0,87.0,81,group C,0
+female,master's degree,1,0,92.0,100.0,100,group D,0
+female,,1,0,45.0,63.0,59,group D,0
+male,high school,1,0,75.0,81.0,71,group C,0
+female,some college,1,0,56.0,58.0,64,group A,0
+female,some high school,0,0,48.0,54.0,53,group D,0
+female,associate's degree,1,0,100.0,100.0,100,group E,0
+female,some high school,0,1,65.0,76.0,75,group C,0
+male,,1,0,72.0,57.0,58,group D,0
+female,some college,1,0,62.0,70.0,72,group D,0
+male,some high school,1,1,66.0,68.0,64,group A,0
+male,some college,1,0,63.0,63.0,60,group C,0
+female,associate's degree,1,0,68.0,76.0,67,group E,0
+female,bachelor's degree,1,0,75.0,84.0,80,group B,0
+female,bachelor's degree,1,0,89.0,100.0,100,group D,0
+male,some high school,1,1,78.0,72.0,69,group C,0
+female,high school,0,1,53.0,50.0,60,group A,0
+female,some college,0,0,49.0,65.0,61,group D,0
+female,some college,1,0,54.0,63.0,67,group A,0
+female,some college,1,1,64.0,82.0,77,group C,0
+unknown,some college,0,1,60.0,62.0,60,group B,0
+male,associate's degree,1,0,62.0,65.0,58,group C,0
+male,high school,1,1,55.0,41.0,48,group D,1
+female,associate's degree,1,0,91.0,95.0,94,group C,0
+female,high school,0,0,8.0,24.0,23,group B,1
+male,some high school,1,0,81.0,78.0,78,group D,0
+male,some high school,1,1,79.0,85.0,86,group B,0
+unknown,some college,1,1,78.0,87.0,91,group A,0
+female,some high school,1,0,74.0,75.0,82,group C,0
+male,high school,1,0,57.0,51.0,54,group A,0
+female,associate's degree,1,0,40.0,59.0,51,group C,0
+male,,1,1,81.0,75.0,76,group E,0
+unknown,,0,0,44.0,45.0,45,group A,1
+female,some college,0,1,67.0,86.0,83,group D,0
+male,high school,0,1,86.0,81.0,75,group E,0
+female,some high school,1,1,65.0,82.0,78,group B,0
+female,associate's degree,0,0,55.0,76.0,76,group D,0
+female,bachelor's degree,0,0,62.0,72.0,74,group D,0
+male,high school,1,0,63.0,69.20202020202021,62,group A,0
+female,master's degree,1,1,88.0,99.0,95,group E,0
+male,high school,0,0,62.0,69.20202020202021,55,group C,0
+female,high school,0,1,59.0,71.0,65,group C,0
+female,some college,1,1,68.0,78.0,77,group D,0
+female,some college,0,0,77.0,86.0,86,group D,0
